@@ -19,7 +19,7 @@ p{
 }
 
 .img-holder{
-	height:150px;
+	height:200px;
 	width:100%;
 	margin:auto;
 	display:inline-block;
@@ -27,7 +27,12 @@ p{
 	
 }
 
-
+.separator {
+	height: 16px;
+	margin: 10px 0px;
+	width: 100%;
+	background: linear-gradient(90deg, rgba(69,215,252,1) 0%, rgba(255,137,137,1) 46%, rgba(228,187,255,1) 100%);
+}
 
 #email{
 	font-weight: 700;
@@ -66,8 +71,25 @@ h5{
 }
 
 
+.other-title{
+	font-family: "Baloo Bhai 2", sans-serif;
+		font-style: italic;
+		color:#888;
+
+}
+
 .sample-container {
 	padding:5px;
+}
+
+.sample-container .odd{
+	box-shadow:5px 5px #ff3838;
+	margin-bottom: 8px;
+}
+
+.sample-container .even{
+	box-shadow:5px 5px #18dcff;
+	margin-bottom: 8px;
 }
 
 
