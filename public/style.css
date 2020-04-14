@@ -117,6 +117,14 @@ h5{
 }
 
 
+.social {
+	text-align: right;
+}
+
+.social-icons{
+	text-align: right;
+}
+
 .title-image {
 	max-width:100%;
 	max-height:100%;
