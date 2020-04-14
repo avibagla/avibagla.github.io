@@ -24,7 +24,22 @@ p{
 	margin:auto;
 	display:inline-block;
 	text-align: center;
+
 	
+}
+
+.title-image{
+	cursor: pointer;
+}
+
+
+.sample-container img {
+/*	transition: border-width 0.6s linear;
+*/}
+
+.sample-container img:hover{
+	outline: 4px solid #33d9b2;
+	outline-offset: -4px;
 }
 
 .separator {
@@ -68,6 +83,11 @@ h5{
 		margin-top: -5px;
 
 
+
+}
+
+.sample-title{
+	overflow: hidden;
 }
 
 .footer{
