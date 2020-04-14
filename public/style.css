@@ -1,0 +1,84 @@
+*{
+	font-family: "Baloo Bhai 2", sans-serif;
+}
+
+
+body{
+	padding:24px 16px;
+	background-color: #f1f2f6;
+	
+	max-width: 750px;
+	margin: auto;
+/*background: rgb(69,215,252);
+background: linear-gradient(90deg, rgba(69,215,252,1) 0%, rgba(255,137,137,1) 46%, rgba(228,187,255,1) 100%);
+*/}
+
+
+p{
+	font-size: .9em;
+}
+
+.img-holder{
+	height:150px;
+	width:100%;
+	margin:auto;
+	display:inline-block;
+	text-align: center;
+	
+}
+
+
+
+#email{
+	font-weight: 700;
+	text-decoration: none;
+	color: blue;
+}
+
+.description{
+	max-width: 500px;
+}
+
+.title{
+	text-align: center;
+	font-family: "Baloo Bhai 2", sans-serif;
+	height: 100%;
+	padding-top: 5px;
+	font-weight: normal;
+
+}
+
+
+h3{
+		font-family: "Baloo Bhai 2", sans-serif;
+		margin:0;
+}
+
+h5{
+		font-family: "Baloo Bhai 2", sans-serif;
+		font-style: italic;
+		color:#888;
+
+		font-size: 1em;
+		margin-top: -5px;
+
+
+}
+
+
+.sample-container {
+	padding:5px;
+}
+
+
+.title-image {
+	max-width:100%;
+	max-height:100%;
+	display:inline-block;
+	border: 5px solid black;
+	box-shadow: 3px 3px blue;
+	border-radius:5%;
+	background: rgb(63,94,251);
+	background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+
+}
