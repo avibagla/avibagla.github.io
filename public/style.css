@@ -33,6 +33,10 @@ p{
 }
 
 
+.social-icons i{
+	margin-left: 6px;
+}
+
 .sample-container img {
 /*	transition: border-width 0.6s linear;
 */}
